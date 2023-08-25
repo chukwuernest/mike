@@ -1,0 +1,16 @@
+* {
+  background-image: url(https://cdn.pixabay.com/photo/2019/02/27/21/25/aircraft-4025032_640.jpg);
+  opacity: 1;
+  background-repeat: round;
+}
+.img {
+  opacity: 1;
+  width: 13em;
+}
+
+.p {
+  color: blue;
+  border: 2px solid olive;
+  font-size: 2em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
